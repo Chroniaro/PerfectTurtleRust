@@ -1,3 +1,5 @@
+extern crate perfect_turtle;
+
 fn main() {
-    println!("Hello, world!");
+    perfect_turtle::run();
 }
