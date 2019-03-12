@@ -1,5 +1,5 @@
-extern crate perfect_turtle;
+extern crate turtle;
 
 fn main() {
-    perfect_turtle::run();
+    turtle::run();
 }

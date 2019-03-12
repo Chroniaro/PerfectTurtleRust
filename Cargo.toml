@@ -1,5 +1,5 @@
 [package]
-name = "perfect_turtle"
+name = "turtle"
 version = "0.1.0"
 authors = ["Chroniaro <zachary.carlini@gmail.com>"]
 edition = "2018"
